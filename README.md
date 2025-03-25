@@ -22,6 +22,6 @@ Mongolia
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/azaaa-9/azaaa-9/master/profile-3d-contrib/profile-night-green.svg">
-  <img alt="3D contribution graph" src="https://raw.githubusercontent.com/azaaa-9/azaaa-9/master/profile-3d-contrib/profile-green-animate.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/v5tech/v5tech/master/profile-3d-contrib/profile-night-green.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/v5tech/v5tech/master/profile-3d-contrib/profile-green-animate.svg">
 </picture>
